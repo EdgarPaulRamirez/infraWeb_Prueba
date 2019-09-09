@@ -1,0 +1,23 @@
+commit 480d5152ade523a1d377b4fcc8c009dad3762cf7
+Author: Edgar Paul Ramirez Villaseñor <43947243+EdgarPaulRamirez@users.noreply.github.com>
+Date:   Mon Sep 2 17:41:57 2019 -0600
+
+    Create README.md
+
+commit da9f1192feff3a20a2fa7b4859ffdff8188aae42
+Author: EdgarPaulRamirez <edparamirezvi@ittepic.edu.mx>
+Date:   Mon Sep 2 17:20:21 2019 -0600
+
+    Agregando text y test
+
+commit 9ad1bef53f9438df19928e8fb4479851581aaab8
+Author: EdgarPaulRamirez <edparamirezvi@ittepic.edu.mx>
+Date:   Thu Aug 29 09:23:04 2019 -0600
+
+    Segunda modificacion en el Index
+
+commit 99a56bea0e9323884d7e790982ce400e629da0a5
+Author: EdgarPaulRamirez <edparamirezvi@ittepic.edu.mx>
+Date:   Wed Aug 28 20:14:29 2019 -0600
+
+    Mi primer commit
